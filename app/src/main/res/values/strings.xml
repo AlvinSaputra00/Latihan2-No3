@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+    // Image Descriptions (contentDescription)
+    <string name="Barcelona_description">Football Club</string>
+    <string name="Real_Madrid_description">Football Club</string>
+    <string name="Mci_description">Football Club</string>
+    <string name="Mu_description">Football Club</string>
+
+    // Image Titles
+    <string name="Barcelona_title">Since 29 November 1899\n</string>
+    <string name="Real_Madrid_title">Since 6 Maret 1902\n</string>
+    <string name="Mci_title">Since 23 April 1894\n</string>
+    <string name="Mu_title">Since 1 Januari 1878\n</string>
+
+    // Image Authors
+    <string name="author_dalle">"Created by Alvin"</string>
+
+    // Image Release Years
+    <string name="twentytwentyone">(2024)</string>
+    <string name="twentytwentytwo">(2024)</string>
+    <string name="twentytwentythree">(2024)</string>
+
+    // Buttons
+    <string name="next_button">Next</string>
+    <string name='previous_button'>Previous</string>
+</resources>
